@@ -5,7 +5,9 @@
                 <div class="lg:flex lg:items-center lg:justify-between">
                     <div class="flex items-center justify-between">
                         <div class="text-xl font-semibold text-gray-700">
-                            <a data-aos="zoom-in" data-aos-easing="ease-in" data-aos-duration="1500" data-aos-delay="200" class="text-2xl font-bold text-gray-800 dark:text-white lg:text-3xl hover:text-gray-700 dark:hover:text-gray-300" href="/">Kay<span>tex</span></a> 
+                            <a data-aos="zoom-in" data-aos-easing="ease-in" data-aos-duration="1500" data-aos-delay="200" class="text-2xl font-bold text-gray-800 dark:text-white lg:text-3xl hover:text-gray-700 dark:hover:text-gray-300" href="/"> 
+                                <img src="../../../public/kaytex.jpeg" alt="Logo" class="h-12">
+                            </a> 
                         </div>
 
                         <!-- Mobile menu button -->

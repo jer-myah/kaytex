@@ -37,7 +37,7 @@
                     <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path></svg>
                     <textarea class="w-full pl-2 outline-none border-none" placeholder="Message"> </textarea>
                 </div>
-                <button type="submit" class="block w-full bg-orange-600 mt-8 py-2 rounded-2xl text-white font-semibold mb-2">Send</button>
+                <button type="submit" class="block w-full bg-orange-600 mt-8 py-3 rounded-2xl text-white font-semibold mb-2">Send</button>
             </form>
         </div>
     </div>    
