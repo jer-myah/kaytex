@@ -41,7 +41,7 @@
     </div>
     
     
-    <div v-if="chat" @click="chat = !chat" class="fixed inset-x-6 lg:inset-x-auto bottom-6 lg:right-8 xl:right-10 xl:bottom-8 animate-pulse" data-bs-toggle="modal" data-bs-target="#exampleModalFullscreen">
+    <div v-if="chat" @click="chat = !chat" class="fixed lg:inset-x-auto bottom-6 right-4 lg:right-8 xl:right-10 xl:bottom-8 animate-pulse" data-bs-toggle="modal" data-bs-target="#exampleModalFullscreen">
         <div class="w-16 lg:px-0">
             <div class="p-2 bg-orange-600 rounded-lg shadow-lg sm:p-3">
                 <div class="flex flex-wrap items-center justify-between">
@@ -59,9 +59,9 @@
         </div>
     </div>
 
-    <div v-else class="fixed inset-x-6 lg:inset-x-auto bottom-6 lg:right-8 xl:right-10 xl:bottom-8" data-bs-toggle="modal" data-bs-target="#exampleModalFullscreen">
+    <div v-else class="fixed lg:inset-x-auto bottom-16 right-4 lg:right-8 xl:right-10 xl:bottom-8" data-bs-toggle="modal" data-bs-target="#exampleModalFullscreen">
         <div class="w-16 lg:px-0">
-            <div class="p-2 bg-indigo-600 rounded-lg shadow-lg sm:p-3">
+            <div class="p-2 bg-red-600 rounded-lg shadow-lg sm:p-3">
                 <div class="flex flex-wrap items-center justify-between">
                     <div class="absolute right-0 w-96 h-screen mt-4 px-4 origin-top-right bg-white border border-gray-200 divide-y divide-gray-100 rounded-md shadow-lg outline-none" aria-labelledby="headlessui-menu-button-1" id="headlessui-menu-items-117" role="menu">
                         <div class="px-4 py-3 flex justify-between">         
