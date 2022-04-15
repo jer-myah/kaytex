@@ -74,8 +74,9 @@
                     <p data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="700" class="mt-5 sm:mt-10 lg:w-10/12 text-gray-500 font-normal text-center text-md sm:text-xl">With the right technology partner, growth, innovation and possibilities are endless. </p>
                 </div>
                 <div class="flex justify-center items-center">
-                    <button data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="700" data-mdb-ripple="true" data-mdb-ripple-color="light" class="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 bg-orange-500 transition duration-150 ease-in-out hover:bg-orange-400 lg:text-xl lg:font-bold  rounded-full text-white px-4 sm:px-10 border border-orange-500 py-2 sm:py-4 text-sm">StartUp Solutions</button>
-                    <button data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="700" data-mdb-ripple="true" data-mdb-ripple-color="warning" class="ml-4 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 bg-transparent transition duration-150 ease-in-out hover:border-orange-400 lg:text-xl lg:font-bold  hover:text-orange-400 rounded-full border border-orange-500 text-orange-500 px-4 sm:px-10 py-2 sm:py-4 text-sm">Ecommerce Solutions</button>
+                    <!-- <button data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="700" data-mdb-ripple="true" data-mdb-ripple-color="light" class="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 bg-orange-500 transition duration-150 ease-in-out hover:bg-orange-400 lg:text-xl lg:font-bold  rounded-full text-white px-4 sm:px-10 border border-orange-500 py-2 sm:py-4 text-sm">StartUp Solutions</button> -->
+                    <button class="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 bg-orange-500 transition duration-150 ease-in-out hover:bg-orange-400 lg:text-xl lg:font-bold  rounded-full text-white px-4 sm:px-10 border border-orange-500 py-2 sm:py-4 text-sm">StartUp Solutions</button>
+                    <button class="ml-4 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-500 bg-transparent transition duration-150 ease-in-out hover:border-orange-400 lg:text-xl lg:font-bold  hover:text-orange-400 rounded-full border border-orange-500 text-orange-500 px-4 sm:px-10 py-2 sm:py-4 text-sm">Ecommerce Solutions</button>
                 </div>
             </div>
         </div>
@@ -95,7 +96,7 @@
                 <div class="w-full lg:w-1/2">
                     <div data-aos="zoom-in-right" data-aos-duration="1000" daa-aos-delay="200" class="lg:max-w-lg">
                         <h1 class="text-xl font-bold tracking-wide text-gray-600 dark:text-white lg:text-3xl">
-                            Scnip, the right technology partner for your brand
+                            Kaytex, the right technology partner for your brand
                         </h1>
                         
                         <div class="mt-8 space-y-5">
@@ -103,7 +104,7 @@
                                 <!-- <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 mx-2 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg> -->
-                                <span class="mx-4 text-lg">Scnip is a world-class technology firm, providing cutting-edge information technology solutions.</span>
+                                <span class="mx-4 text-lg">Kaytex is a world-class technology firm, providing cutting-edge information technology solutions.</span>
                             </p>                        
                         </div>
 

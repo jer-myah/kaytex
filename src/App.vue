@@ -1,26 +1,18 @@
-<template>
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <index />
-</template>
-
-<script>
-import Index from './pages/Index.vue';
-
-export default {
-    name: 'App',
-    components: {
-        Index
-    }
-}
+<script setup>
 </script>
 
+<template>
+  <header>
+    <!-- <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" /> -->
+
+    <div class="wrapper">
+    </div>
+  </header>
+
+  <main>
+      <router-view></router-view>
+  </main>
+</template>
+
 <style>
-/* #app {
-    font-family: Avenir, Helvetica, Arial, sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-align: center;
-    color: #2c3e50;
-    margin-top: 60px;
-} */
 </style>
